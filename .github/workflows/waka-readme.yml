@@ -12,6 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      # secrets aren't allowed in step-level if expressions, so expose
+      # the PAT's presence through env for the gate below
+      HAS_GH_TOKEN: ${{ secrets.GH_TOKEN }}
     steps:
       # Weekly language/time breakdown as a text chart
       - name: Weekly breakdown (waka-readme)
@@ -28,7 +32,7 @@ jobs:
       # secret — the built-in GITHUB_TOKEN cannot read account details.
       # Skips cleanly until that secret exists.
       - name: Dev metrics (waka-readme-stats)
-        if: ${{ secrets.GH_TOKEN != '' }}
+        if: ${{ env.HAS_GH_TOKEN != '' }}
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
