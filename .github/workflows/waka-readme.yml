@@ -15,7 +15,7 @@ jobs:
     env:
       # secrets aren't allowed in step-level if expressions, so expose
       # the PAT's presence through env for the gate below
-      HAS_GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      HAS_GH_TOKEN: ${{ secrets.STATS_TOKEN }}
     steps:
       # Weekly language/time breakdown as a text chart
       - name: Weekly breakdown (waka-readme)
@@ -29,7 +29,7 @@ jobs:
 
       # Dev metrics: code time badge, profile views, lines of code,
       # GitHub data, commit time-of-day, most productive day, etc.
-      # Needs a classic PAT (repo + user scopes) saved as the GH_TOKEN
+      # Needs a classic PAT (repo + user scopes) saved as the STATS_TOKEN
       # secret — the built-in GITHUB_TOKEN cannot read account details.
       # Skips cleanly until that secret exists.
       - name: Dev metrics (waka-readme-stats)
@@ -37,7 +37,7 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_LINES_OF_CODE: "True"
