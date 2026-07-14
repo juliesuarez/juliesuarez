@@ -4,6 +4,15 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=juliesuarez)](https://github.com/juliesuarez)
 
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juliesuarez&theme=react-dark&hide_border=true)
+
+## 🔍 Code Reviews & Merged PRs
+
+<!--START_SECTION:reviews-->
+<!--END_SECTION:reviews-->
+
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->

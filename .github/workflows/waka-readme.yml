@@ -50,6 +50,72 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_OS: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_LOC_CHART: "False"
+          SHOW_LOC_CHART: "True"
           SHOW_UPDATED_DATE: "True"
           COMMIT_MESSAGE: "docs(readme): update profile stats"
+
+      # Code review + merged-PR counts: no off-the-shelf action reports
+      # these, so pull them straight from the GraphQL contributions API
+      # and the search API, then patch them into their own README section.
+      - name: Checkout (for review/merge stats commit)
+        if: ${{ env.HAS_GH_TOKEN != '' }}
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Fetch code review & merged PR stats
+        if: ${{ env.HAS_GH_TOKEN != '' }}
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+          LOGIN: juliesuarez
+        run: |
+          set -euo pipefail
+
+          RESULT=$(gh api graphql -f query='
+            query($login: String!, $searchQuery: String!) {
+              user(login: $login) {
+                contributionsCollection {
+                  totalPullRequestReviewContributions
+                  totalPullRequestContributions
+                }
+              }
+              mergedPRs: search(query: $searchQuery, type: ISSUE) {
+                issueCount
+              }
+            }' -f login="$LOGIN" -f searchQuery="author:$LOGIN is:pr is:merged")
+
+          REVIEWS=$(echo "$RESULT" | jq -r '.data.user.contributionsCollection.totalPullRequestReviewContributions')
+          OPENED=$(echo "$RESULT" | jq -r '.data.user.contributionsCollection.totalPullRequestContributions')
+          MERGED=$(echo "$RESULT" | jq -r '.data.mergedPRs.issueCount')
+
+          {
+            echo '```text'
+            echo "🔍 Code Reviews Given (past year):  $REVIEWS"
+            echo "🔀 Pull Requests Opened (past year): $OPENED"
+            echo "✅ Pull Requests Merged (all time):  $MERGED"
+            echo '```'
+          } > /tmp/reviews_block.md
+
+          python3 - <<'PYEOF'
+          import re
+          with open("README.md", encoding="utf-8") as f:
+              content = f.read()
+          with open("/tmp/reviews_block.md", encoding="utf-8") as f:
+              block = f.read().strip()
+          content = re.sub(
+              r"(<!--START_SECTION:reviews-->)(.*?)(<!--END_SECTION:reviews-->)",
+              lambda m: f"{m.group(1)}\n{block}\n{m.group(3)}",
+              content,
+              flags=re.S,
+          )
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+          PYEOF
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "docs(readme): update code review and merged PR stats"
+          git pull --rebase origin main
+          git push origin main
