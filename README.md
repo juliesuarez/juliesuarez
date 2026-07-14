@@ -11,6 +11,11 @@
 ## 🔍 Code Reviews & Merged PRs
 
 <!--START_SECTION:reviews-->
+```text
+🔍 Code Reviews Given (past year):  9
+🔀 Pull Requests Opened (past year): 304
+✅ Pull Requests Merged (all time):  305
+```
 <!--END_SECTION:reviews-->
 
 ## ⏱️ WakaTime Coding Activity
