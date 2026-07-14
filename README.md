@@ -1,13 +1,15 @@
 # Hi, I'm Julie Nakawesi 👋
 
-## 📊 My coding activity this week
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=juliesuarez)](https://github.com/juliesuarez)
+
+## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 06 July 2026 - To: 13 July 2026
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+
+## 📊 My Coding Activity This Week
+
+<!--START_SECTION:waka_week-->
+<!--END_SECTION:waka_week-->

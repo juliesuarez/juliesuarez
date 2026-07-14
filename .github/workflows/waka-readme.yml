@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Profile Readme Stats
 
 on:
   schedule:
@@ -8,13 +8,40 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme with WakaTime stats
+    name: Update README with WakaTime + GitHub stats
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: athul/waka-readme@master
+      # Dev metrics: code time badge, profile views, lines of code,
+      # GitHub data, commit time-of-day, most productive day, etc.
+      - name: Dev metrics (waka-readme-stats)
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Falls back to the built-in token until a PAT is added as GH_TOKEN
+          GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_OS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_UPDATED_DATE: "True"
+          COMMIT_MESSAGE: "docs(readme): update profile stats"
+
+      # Weekly language/time breakdown as a text chart
+      - name: Weekly breakdown (waka-readme)
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka_week
           SHOW_TITLE: true
           BLOCKS: "░▒▓█"
