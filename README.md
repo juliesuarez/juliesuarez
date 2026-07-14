@@ -12,4 +12,11 @@
 ## 📊 My Coding Activity This Week
 
 <!--START_SECTION:wakaweek-->
+
+```txt
+From: 06 July 2026 - To: 13 July 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:wakaweek-->
