@@ -13,14 +13,26 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Weekly language/time breakdown as a text chart
+      - name: Weekly breakdown (waka-readme)
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka_week
+          SHOW_TITLE: true
+          BLOCKS: "░▒▓█"
+
       # Dev metrics: code time badge, profile views, lines of code,
       # GitHub data, commit time-of-day, most productive day, etc.
+      # Needs a classic PAT (repo + user scopes) saved as the GH_TOKEN
+      # secret — the built-in GITHUB_TOKEN cannot read account details.
+      # Skips cleanly until that secret exists.
       - name: Dev metrics (waka-readme-stats)
+        if: ${{ secrets.GH_TOKEN != '' }}
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Falls back to the built-in token until a PAT is added as GH_TOKEN
-          GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_LINES_OF_CODE: "True"
@@ -36,12 +48,3 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "True"
           COMMIT_MESSAGE: "docs(readme): update profile stats"
-
-      # Weekly language/time breakdown as a text chart
-      - name: Weekly breakdown (waka-readme)
-        uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: waka_week
-          SHOW_TITLE: true
-          BLOCKS: "░▒▓█"
