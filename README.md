@@ -13,8 +13,8 @@
 <!--START_SECTION:reviews-->
 ```text
 🔍 Code Reviews Given (past year):  10
-🔀 Pull Requests Opened (past year): 324
-✅ Pull Requests Merged (all time):  325
+🔀 Pull Requests Opened (past year): 335
+✅ Pull Requests Merged (all time):  332
 ```
 <!--END_SECTION:reviews-->
 
