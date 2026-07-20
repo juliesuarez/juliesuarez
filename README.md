@@ -18,7 +18,7 @@ Pull Requests Merged (all time):  336
 ```
 <!--END_SECTION:reviews-->
 
-## ⏱️ WakaTime Coding Activity
+##  WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%207%20mins-blue?style=flat)
