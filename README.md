@@ -4,17 +4,17 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=juliesuarez)](https://github.com/juliesuarez)
 
-## 📈 Activity Graph
+## Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juliesuarez&theme=react-dark&hide_border=true)
 
-## 🔍 Code Reviews & Merged PRs
+## Code Reviews & Merged PRs
 
 <!--START_SECTION:reviews-->
 ```text
-🔍 Code Reviews Given (past year):  10
-🔀 Pull Requests Opened (past year): 337
-✅ Pull Requests Merged (all time):  336
+Code Reviews Given (past year):  10
+Pull Requests Opened (past year): 337
+Pull Requests Merged (all time):  336
 ```
 <!--END_SECTION:reviews-->
 
@@ -60,7 +60,7 @@ Sunday                   165 commits         ░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+ **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Africa/Kampala
