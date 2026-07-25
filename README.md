@@ -23,7 +23,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.54%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -40,21 +40,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2841 commits        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-🌆 Daytime                5471 commits        ██████████████░░░░░░░░░░░   57.38 % 
-🌃 Evening                1148 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-🌙 Night                  74 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+🌞 Morning                2935 commits        ████████░░░░░░░░░░░░░░░░░   30.15 % 
+🌆 Daytime                5567 commits        ██████████████░░░░░░░░░░░   57.18 % 
+🌃 Evening                1160 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+🌙 Night                  74 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1443 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Tuesday                  1735 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Wednesday                1500 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Thursday                 2440 commits        ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-Friday                   2042 commits        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-Saturday                 204 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Sunday                   170 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Monday                   1451 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Tuesday                  1757 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Wednesday                1534 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Thursday                 2544 commits        ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+Friday                   2076 commits        █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Saturday                 204 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Sunday                   170 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
@@ -64,26 +64,25 @@ Sunday                   170 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Python                   4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Markdown                 3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-YAML                     3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-TypeScript               3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Text                     2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Python                   3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Markdown                 2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+YAML                     2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Text                     2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+TypeScript               1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 24 mins      ████████████████░░░░░░░░░   63.00 % 
-VS Code                  6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
-Antigravity IDE          1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Claude Code              10 hrs 13 mins      ███████████████░░░░░░░░░░   60.62 % 
+VS Code                  6 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.38 % 
 
 🐱‍💻 Projects: 
-NUNUFUND_Backend-V_2     9 hrs 54 mins       ████████████░░░░░░░░░░░░░   46.59 % 
-dev                      4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-NUNUFUND_ShopPOS         2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-NUNUFUND_FRONTEND-V_2    2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-rain-autopilot           57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+NUNUFUND_Backend-V_2     6 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.79 % 
+dev                      4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+NUNUFUND_ShopPOS         2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+NUNUFUND_FRONTEND-V_2    1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+rain-autopilot           57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 💻 Operating System: 
-Windows                  21 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +102,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juliesuarez/juliesuarez/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 05:23:49 UTC
+ Last Updated on 25/07/2026 05:17:56 UTC
 <!--END_SECTION:waka-->
 
 ## My Coding Activity This Week
