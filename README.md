@@ -21,6 +21,8 @@
 ##  WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2013%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.54%20million%20lines%20of%20code-blue?style=flat)
@@ -64,25 +66,25 @@ Sunday                   170 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Python                   3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Markdown                 2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-YAML                     2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Text                     2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-TypeScript               1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Python                   2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Markdown                 2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+YAML                     2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+TypeScript               1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 13 mins      ███████████████░░░░░░░░░░   60.62 % 
-VS Code                  6 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.38 % 
+Claude Code              8 hrs 1 min         ███████████████░░░░░░░░░░   59.40 % 
+VS Code                  5 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.60 % 
 
 🐱‍💻 Projects: 
-NUNUFUND_Backend-V_2     6 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.79 % 
-dev                      4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-NUNUFUND_ShopPOS         2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-NUNUFUND_FRONTEND-V_2    1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-rain-autopilot           57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+NUNUFUND_Backend-V_2     6 hrs 42 mins       ████████████░░░░░░░░░░░░░   49.69 % 
+dev                      2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+NUNUFUND_ShopPOS         2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+NUNUFUND_FRONTEND-V_2    1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+vscode-wakatime          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 💻 Operating System: 
-Windows                  16 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +104,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juliesuarez/juliesuarez/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 05:17:56 UTC
+ Last Updated on 26/07/2026 05:35:39 UTC
 <!--END_SECTION:waka-->
 
 ## My Coding Activity This Week
