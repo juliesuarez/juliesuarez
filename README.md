@@ -68,48 +68,48 @@ Sunday                   197 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Markdown                 2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Python                   2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-Other                    1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-YAML                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-JavaScript               1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Markdown                 2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+Python                   2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+Other                    1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+YAML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+JavaScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 46 mins       ██████████████████████░░░   88.30 % 
-VS Code                  1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Claude Code              8 hrs 50 mins       ██████████████████████░░░   87.87 % 
+VS Code                  1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 
 🐱‍💻 Projects: 
-dev                      2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-Whisp-Health-Web         1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-NUNUFUND_Backend-V_2     1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-NUNUFUND_FRONTEND-V_2    1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-NUNUFUND_ShopPOS         43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+dev                      3 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.28 % 
+Whisp-Health-Web         2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+NUNUFUND_FRONTEND-V_2    1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+NUNUFUND_Backend-V_2     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Whisp-Health-API         43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 💻 Operating System: 
-Windows                  9 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 9 mins (92.3%)
+⏱ AI Coding Time: 9 hrs 26 mins (93.82%)
 
-✍️ 2,803 lines written by AI, 199 lines written by hand (93.37% AI-written)
+✍️ 2,823 lines written by AI, 199 lines written by hand (93.41% AI-written)
 
-🔤 161,500,892 Input Tokens, 680,089 Output Tokens
+🔤 143,529,103 Input Tokens, 673,300 Output Tokens
 
-💵 $822.20 Estimated AI Cost This Week
+💵 $611.68 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 114 AI Prompts
+🧠 16 AI Sessions, 121 AI Prompts
 
-Opus                     2,845 lines         █████████████████████████   100.00 % 
+Opus                     2,860 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.37% of written lines came from AI
-📄 Detailed Prompter — average 1,017 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 7.51% of changed lines were hand-edited
+🤖 AI-Driven — 93.41% of written lines came from AI
+📄 Detailed Prompter — average 814 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 7.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +129,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juliesuarez/juliesuarez/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 05:30:51 UTC
+ Last Updated on 03/08/2026 05:46:13 UTC
 <!--END_SECTION:waka-->
 
 ## My Coding Activity This Week
