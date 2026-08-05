@@ -21,17 +21,17 @@
 ##  WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 344.4 kB Used in GitHub's Storage 
+> 📦 344.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1,459 Contributions in the Year 2026
  > 
@@ -68,48 +68,48 @@ Sunday                   190 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Markdown                 2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.56 % 
-Python                   2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-Other                    1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Markdown                 2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.89 % 
+Other                    1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+Python                   1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 29 mins       █████████████████████░░░░   84.25 % 
-VS Code                  1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Claude Code              5 hrs 45 mins       ████████████████████░░░░░   81.01 % 
+VS Code                  1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
 
 🐱‍💻 Projects: 
-dev                      3 hrs               ██████████░░░░░░░░░░░░░░░   39.16 % 
-Whisp-Health-Web         2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-NUNUFUND_Backend-V_2     1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Whisp-Health-API         43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-NUNUFUND_ShopPOS         11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+dev                      3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.06 % 
+Whisp-Health-Web         2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+NUNUFUND_Backend-V_2     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Whisp-Health-API         43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+bookstore-assignment     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 💻 Operating System: 
-Windows                  7 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 3 mins (91.76%)
+⏱ AI Coding Time: 6 hrs 22 mins (89.67%)
 
-✍️ 2,275 lines written by AI, 199 lines written by hand (91.96% AI-written)
+✍️ 2,124 lines written by AI, 202 lines written by hand (91.32% AI-written)
 
-🔤 106,173,068 Input Tokens, 491,259 Output Tokens
+🔤 77,893,265 Input Tokens, 460,907 Output Tokens
 
-💵 $250.98 Estimated AI Cost This Week
+💵 $4.71 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 104 AI Prompts
+🧠 10 AI Sessions, 94 AI Prompts
 
-Opus                     1,770 lines         █████████████████████████   100.00 % 
+Opus                     1,267 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.96% of written lines came from AI
-📄 Detailed Prompter — average 762 characters per prompt
+🤖 AI-Driven — 91.32% of written lines came from AI
+📄 Detailed Prompter — average 887 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 9.07% of changed lines were hand-edited
+🚀 High AI Trust — 10.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +129,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juliesuarez/juliesuarez/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 05:18:28 UTC
+ Last Updated on 05/08/2026 05:18:19 UTC
 <!--END_SECTION:waka-->
 
 ## My Coding Activity This Week
