@@ -21,9 +21,9 @@
 ##  WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -33,7 +33,7 @@
 
 > 📦 344.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,459 Contributions in the Year 2026
+> 🏆 1,460 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,16 +45,16 @@
 
 ```text
 🌞 Morning                3356 commits        ████████░░░░░░░░░░░░░░░░░   31.11 % 
-🌆 Daytime                6087 commits        ██████████████░░░░░░░░░░░   56.43 % 
-🌃 Evening                1281 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+🌆 Daytime                6089 commits        ██████████████░░░░░░░░░░░   56.44 % 
+🌃 Evening                1281 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
 🌙 Night                  62 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   1833 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Tuesday                  1940 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Wednesday                1677 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Tuesday                  1940 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+Wednesday                1679 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 Thursday                 2848 commits        ███████░░░░░░░░░░░░░░░░░░   26.40 % 
 Friday                   2080 commits        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
 Saturday                 218 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
@@ -68,48 +68,48 @@ Sunday                   190 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Markdown                 2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.89 % 
-Other                    1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-Python                   1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Markdown                 3 hrs 59 mins       ████████████░░░░░░░░░░░░░   46.62 % 
+Text                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Other                    59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Python                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 45 mins       ████████████████████░░░░░   81.01 % 
-VS Code                  1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Claude Code              6 hrs 56 mins       ████████████████████░░░░░   80.97 % 
+VS Code                  1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
 
 🐱‍💻 Projects: 
-dev                      3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.06 % 
-Whisp-Health-Web         2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-NUNUFUND_Backend-V_2     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Whisp-Health-API         43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-bookstore-assignment     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+dev                      4 hrs 49 mins       ██████████████░░░░░░░░░░░   56.32 % 
+Whisp-Health-Web         2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Whisp-Health-API         45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+NUNUFUND_Backend-V_2     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+bookstore-assignment     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 💻 Operating System: 
-Windows                  7 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 22 mins (89.67%)
+⏱ AI Coding Time: 7 hrs 46 mins (90.69%)
 
-✍️ 2,124 lines written by AI, 202 lines written by hand (91.32% AI-written)
+✍️ 3,483 lines written by AI, 205 lines written by hand (94.44% AI-written)
 
-🔤 77,893,265 Input Tokens, 460,907 Output Tokens
+🔤 136,366,751 Input Tokens, 787,950 Output Tokens
 
-💵 $4.71 Estimated AI Cost This Week
+💵 $698.67 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 94 AI Prompts
+🧠 13 AI Sessions, 139 AI Prompts
 
-Opus                     1,267 lines         █████████████████████████   100.00 % 
+Opus                     3,914 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.32% of written lines came from AI
-📄 Detailed Prompter — average 887 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 10.01% of changed lines were hand-edited
+🤖 AI-Driven — 94.44% of written lines came from AI
+📄 Detailed Prompter — average 706 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 5.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +129,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juliesuarez/juliesuarez/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 05:18:19 UTC
+ Last Updated on 06/08/2026 05:21:04 UTC
 <!--END_SECTION:waka-->
 
 ## My Coding Activity This Week
