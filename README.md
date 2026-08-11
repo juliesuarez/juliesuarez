@@ -27,13 +27,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.44%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.00%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 344.5 kB Used in GitHub's Storage 
+> 📦 344.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,463 Contributions in the Year 2026
+> 🏆 1,465 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,21 +44,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5047 commits        ████████░░░░░░░░░░░░░░░░░   32.37 % 
-🌆 Daytime                8727 commits        ██████████████░░░░░░░░░░░   55.97 % 
-🌃 Evening                1745 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-🌙 Night                  74 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+🌞 Morning                3425 commits        ████████░░░░░░░░░░░░░░░░░   31.31 % 
+🌆 Daytime                6156 commits        ██████████████░░░░░░░░░░░   56.27 % 
+🌃 Evening                1299 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+🌙 Night                  60 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2350 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Tuesday                  2688 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Wednesday                2410 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Thursday                 4568 commits        ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-Friday                   3009 commits        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Saturday                 278 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Sunday                   290 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Monday                   1902 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Tuesday                  1950 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Wednesday                1692 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Thursday                 2891 commits        ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+Friday                   2097 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Saturday                 219 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Sunday                   189 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
 
 
@@ -68,20 +68,20 @@ Sunday                   290 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Other                    20 mins             ██████████░░░░░░░░░░░░░░░   39.14 % 
-XML                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Python                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-HTML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Other                    20 mins             ██████████░░░░░░░░░░░░░░░   39.74 % 
+XML                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Python                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+HTML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 
 🔥 Editors: 
-VS Code                  23 mins             ███████████████░░░░░░░░░░   58.50 % 
-Claude Code              17 mins             ██████████░░░░░░░░░░░░░░░   41.50 % 
+VS Code                  23 mins             ██████████████░░░░░░░░░░░   57.69 % 
+Claude Code              17 mins             ███████████░░░░░░░░░░░░░░   42.31 % 
 
 🐱‍💻 Projects: 
-bookstore-assignment     15 mins             ██████████░░░░░░░░░░░░░░░   38.50 % 
-NUNUFUND_Backend-V_2     14 mins             █████████░░░░░░░░░░░░░░░░   35.07 % 
-dev                      10 mins             ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+bookstore-assignment     15 mins             ██████████░░░░░░░░░░░░░░░   39.26 % 
+NUNUFUND_Backend-V_2     13 mins             ████████░░░░░░░░░░░░░░░░░   33.79 % 
+dev                      10 mins             ███████░░░░░░░░░░░░░░░░░░   26.95 % 
 
 💻 Operating System: 
 Windows                  40 mins             █████████████████████████   100.00 % 
@@ -90,7 +90,7 @@ Windows                  40 mins             ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (74.06%)
+⏱ AI Coding Time: 30 mins (75.51%)
 
 ✍️ 201 lines written by AI, 6 lines written by hand (97.1% AI-written)
 
@@ -127,7 +127,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juliesuarez/juliesuarez/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 03:59:08 UTC
+ Last Updated on 11/08/2026 03:47:56 UTC
 <!--END_SECTION:waka-->
 
 ## My Coding Activity This Week
