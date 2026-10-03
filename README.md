@@ -111,13 +111,13 @@ Java                     2 repos             █░░░░░░░░░░�
 <!--START_SECTION:wakaweek-->
 
 ```txt
-From: 24 September 2026 - To: 01 October 2026
+From: 25 September 2026 - To: 02 October 2026
 
-Markdown     1 hr 33 mins          ███████▒░░░░░░░░░░░░░░░░░   29.88 %
-Other        1 hr 32 mins          ███████▒░░░░░░░░░░░░░░░░░   29.60 %
-Python       37 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
-HTML         24 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-SQL          23 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+Other        1 hr 31 mins          ████████▒░░░░░░░░░░░░░░░░   32.69 %
+Markdown     1 hr 16 mins          ███████░░░░░░░░░░░░░░░░░░   27.48 %
+Python       36 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
+SQL          23 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+HTML         21 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
 ```
 
 <!--END_SECTION:wakaweek-->
