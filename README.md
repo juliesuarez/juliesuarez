@@ -111,13 +111,13 @@ Java                     2 repos             █░░░░░░░░░░�
 <!--START_SECTION:wakaweek-->
 
 ```txt
-From: 04 October 2026 - To: 11 October 2026
+From: 05 October 2026 - To: 12 October 2026
 
-Python       1 hr 54 mins          █████████▒░░░░░░░░░░░░░░░   37.49 %
-Markdown     1 hr 54 mins          █████████▒░░░░░░░░░░░░░░░   37.48 %
-Other        53 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
-YAML         12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-TypeScript   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Python       2 hrs 55 mins         ███████████▓░░░░░░░░░░░░░   46.23 %
+Markdown     1 hr 59 mins          ████████░░░░░░░░░░░░░░░░░   31.67 %
+Other        1 hr 3 mins           ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+YAML         12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+CSV          4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:wakaweek-->
